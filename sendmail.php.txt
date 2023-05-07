@@ -1,0 +1,22 @@
+<?php
+// Retrieve form data
+$name = $_POST['name'];
+$email = $_POST['email'];
+$message = $_POST['message'];
+
+// Set up email content
+$to = "yourmom@gmail.com"; // Replace with your email address
+$subject = "New Contact Form Submission";
+$body = "Name: $name\nEmail: $email\nMessage: $message";
+$headers = "From: $email";
+
+// Send email
+$mailSent = mail($to, $subject, $body, $headers);
+
+// Check if the email was sent successfully
+if ($mailSent) {
+  echo "Thank you for contacting us. Your message has been sent.";
+} else {
+  echo "Sorry, there was an error sending your message. Please try again later.";
+}
+?>
