@@ -11,5 +11,3 @@ Key Features:
 4. Discover New Anime: Anime enthusiasts can explore a vast collection of anime titles on Aniformation, enabling them to discover new shows and expand their anime horizons. Whether seeking recommendations or looking for information on specific genres, Aniformation has it covered.
 
 Aniformation strives to be the ultimate companion for anime lovers, offering a user-friendly, fast, and efficient platform to find comprehensive information about anime titles. Whether you're a long-time fan or new to the anime world, Aniformation is here to enhance your anime journey.
-# Note
-**i still have no idea how to fetch latest anime and show it in the home page, i would be happy if you could help with it**
