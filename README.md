@@ -1,4 +1,14 @@
-# aniformation
+<p align="center">
+
+  <a href="https://github.com/Kochou11/Anime-information-kitsu">
+
+    <img src="logo.png" alt="Logo" width="85" height="85">  </a>
+
+  <h3 align="center">Aniformation</h3>
+
+  <p align="center">
+
+ # aniformation
  It is a comprehensive platform called Aniformation, specifically designed for anime enthusiasts. With the goal of providing valuable information and enhancing the anime experience, Aniformation serves as a go-to resource for discovering new shows, exploring favorite series, and staying updated with the latest trends in the anime world.
 
 Key Features:
