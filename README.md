@@ -2,7 +2,7 @@
 
   <a href="https://github.com/Kochou11/Anime-information-kitsu">
 
-<img src="logo.png" alt="Logo" width="85" height="85"> 
+<img src="image1.png" alt="Logo" width="90" height="90"> 
   </a>
 
   <h3 align="center">Aniformation</h3>
