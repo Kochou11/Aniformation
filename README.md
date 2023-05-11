@@ -8,7 +8,7 @@
   <h3 align="center">Aniformation</h3>
 
   <p align="center">
-<samp>Aniformation is a platform dedicated to providing information about anime. which uses <a href="https://kitsu.docs.apiary.io/"> Kistu api </a> 
+<samp>Aniformation is a platform dedicated to providing information about anime. which uses <a href="https://kitsu.docs.apiary.io/"> Kitsu api </a> 
   </samp>
 
     
