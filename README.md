@@ -39,8 +39,15 @@
   </p>
 
 </p>
- 
- # Aniformation
+
+# Important Notice ⚠️:
+ **the project is now transfered to** 
+ <a href="https://github.com/Kochou11/AnimeBookZ"> AnimeBookZ </a> 
+
+<i>The respiratory will be archived. it will not be maintained.</i>
+
+
+# Aniformation
 It is a comprehensive platform called Aniformation, specifically designed for anime enthusiasts. With the goal of providing valuable information and enhancing the anime experience, Aniformation serves as a go-to resource for discovering new shows, exploring favorite series, and staying updated with the latest trends in the anime world.
 
  
